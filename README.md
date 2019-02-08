@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-# documentation
+# Documentation
 
 https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/
 
