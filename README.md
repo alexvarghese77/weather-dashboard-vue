@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -14,5 +14,9 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+# documentation
+
+https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
